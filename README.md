@@ -1,5 +1,6 @@
 # translation-game
 A simple word game I developed as a project for university. In a nutshell, the game allows the player to practice vocabulary in a language of choice. 
+
 First, the game asks for four things:
 - a txt file, from where it will extract the words
 - the language we want to practice
