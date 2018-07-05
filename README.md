@@ -9,7 +9,7 @@ First, the game asks for four things:
 
 Next, the game itself will begin. In each round the player will be asked to translate a word from English into the language of choice. The game will also provide context, aka the sentence from the source text where the word appears. Each correct answer will be rewarded with a point. If the player guesses wrong, they will have a second chance, and the game will provide a hint: the definition of the word. At the end of all rounds, an encouraging message will be displayed according to the percentage of correct answers.
 
-## Requirements for using the translation game:
+## Requirements:
 - Python 3
 - The NLTK package "wordnet"
 - The NLTK package "wsd" (Word Sense Disambiguation) and, within it, the Lesk algorithm
