@@ -14,4 +14,4 @@ Next, the game itself will begin. In each round the player will be asked to tran
 - The NLTK package "wordnet"
 - The NLTK package "wsd" (Word Sense Disambiguation) and, within it, the Lesk algorithm
 - The NLTK package "tokenize" and, within it, the function "sent_tokenize"
-- Random
+- The module "Random"
